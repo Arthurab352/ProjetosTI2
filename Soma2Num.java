@@ -19,6 +19,6 @@ public class Soma2Num {
 		//Mostrar
 		System.out.println("Soma" + soma);
 		
-		//Integracao ao github
+		//Integracao ao github 
 	}
 }
